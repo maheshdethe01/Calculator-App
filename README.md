@@ -90,5 +90,11 @@ A simple GUI calculator built using Python's built-in `tkinter` module. This app
 1. Clone this repository or copy the code.
 2. Run the Python file:
 
-```bash
-python calculator.py
+```python calculator.py```
+
+
+---
+
+## Image of the App
+<img src="https://github.com/maheshdethe01/Calculator-App/blob/main/Calculator%20App.png" alt="Calculator UI Screenshot" width="400">
+
